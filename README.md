@@ -1,2 +1,2 @@
-# barbearia
-Sobre barba😉
+# barba
+Pagina comercial para aprendizagem.
